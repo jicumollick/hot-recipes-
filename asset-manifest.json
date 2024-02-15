@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hot-recipes-/static/css/main.91985dcd.css",
+    "main.js": "/hot-recipes-/static/js/main.10cb8331.js",
+    "static/js/592.95f5fc29.chunk.js": "/hot-recipes-/static/js/592.95f5fc29.chunk.js",
+    "index.html": "/hot-recipes-/index.html",
+    "main.91985dcd.css.map": "/hot-recipes-/static/css/main.91985dcd.css.map",
+    "main.10cb8331.js.map": "/hot-recipes-/static/js/main.10cb8331.js.map",
+    "592.95f5fc29.chunk.js.map": "/hot-recipes-/static/js/592.95f5fc29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91985dcd.css",
+    "static/js/main.10cb8331.js"
+  ]
+}
