@@ -46,4 +46,6 @@ Open your web browser and navigate to http://localhost:3000 to view the app.
 ### ==> Pagination support for browsing multiple pages of search results.
 ### ==> Responsive design for optimal viewing on various devices.
 
-
+## Challenge Faced
+1)  I have integrated a wrong API from spoonacular, which was time bound with 150 call per day. after 150 api hit, it was throwing error. i got stuck. then i choose edamam api to integrate. it took me 2 hours.
+2) it was hitting api for each character change before, then I added debounce technique to solve that. overall it was an easy assignment.
